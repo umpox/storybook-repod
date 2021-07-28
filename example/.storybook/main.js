@@ -9,7 +9,10 @@ module.exports = {
   },
   webpackFinal: (config) => {
     config.cache = {
-      type: "memory"
+      type: "filesystem",
+      buildDependencies: {
+        config: [__filename],
+      },
     };
 
     return config;
