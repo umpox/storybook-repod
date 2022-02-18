@@ -9,7 +9,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for your contribution to the accessibility of Sourcegraph! Please note that this issue has been automatically given an estimate of **3 days**. You can modify this estimate by changing the label from "estimate/3d" to "estimate/Xd" where X is the number of days.
+        Thanks for your contribution to the accessibility of Sourcegraph!
+        Please note that this issue has been automatically given an estimate of **3 days**.
+        You can modify this estimate by changing the label from "estimate/3d" to "estimate/Xd" where X is the number of days.
   - type: textarea
     id: problem-description
     attributes:
