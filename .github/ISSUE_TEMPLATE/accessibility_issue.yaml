@@ -39,7 +39,7 @@ body:
     attributes:
       label: Assignees
       options:
-      - label: This issue will be fixed by my team, I have assigned a relevant member to it, or I will do so in the near future.
-      - label: This issue will be fixed by GitStart. I have assigned the label 'gitstart' and added the assignee 'gitstart-sourcegraph'.
-      - label: I'm unsure who should work on this issue or if it needs more clarification. I will let the Frontend Platform team triage this.
+      - This issue will be fixed by my team, I have assigned a relevant member to it, or I will do so in the near future.
+      - This issue will be fixed by GitStart. I have assigned the label 'gitstart' and added the assignee 'gitstart-sourcegraph'.
+      - I'm unsure who should work on this issue or if it needs more clarification. I will let the Frontend Platform team triage this.
 
